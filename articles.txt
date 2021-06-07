@@ -1,0 +1,3 @@
+сегодня в 20:12 - Будущее веба: станет ли рендеринг в <canvas> заменой DOM? - https://habr.com/ru/company/ruvds/blog/560736/
+сегодня в 19:24 - Цветовая палитра как часть дизайн-системы - https://habr.com/ru/company/space307/blog/561538/
+сегодня в 18:27 - Security Week 23: эксплуатация уязвимости в VMware vCenter - https://habr.com/ru/company/kaspersky/blog/561528/
